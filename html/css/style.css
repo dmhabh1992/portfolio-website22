@@ -1,16 +1,15 @@
-nav {
+
+nav button .button a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: small;
     color:#4B404F;
     text-decoration: none;
     word-spacing: 2px;
-}
-button .button a {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
 h1 {
     font-family: 'Courier New', Courier, monospace;
