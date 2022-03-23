@@ -19,8 +19,12 @@ a {
 }
 .main .intro p {
     background-color: beige;
-    border: 20px;
+    border-top: 10px;
+    border-left: 10px;
+    border-bottom: 10px;
+    border-right: 10px;
     margin: auto;
+    width: 55%;
     padding: 12px;
     text-align: center;
 }
