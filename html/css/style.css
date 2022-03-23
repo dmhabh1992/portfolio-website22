@@ -23,10 +23,11 @@ p {
     text-align: center;
     margin: 10px;
 }
-.intro {
+.main .intro {
     padding: 2px;
     margin: auto;
     border: #4B404F;
+    text-align: center;
 }
 .center {
     display: block;
