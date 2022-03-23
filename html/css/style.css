@@ -23,7 +23,7 @@ p {
     text-align: center;
     margin: 10px;
 }
-.intro {
+.intro p {
     padding: 2px;
     margin: auto;
     border: #4B404F;
