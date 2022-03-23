@@ -1,4 +1,4 @@
-.button {
+nav .button a {
     display: inline;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -16,6 +16,7 @@ p {
     font-size: 24px;
     color: #4B404F;
     text-align: center;
+    margin: 10px;
 }
 .intro {
     padding: 2px;
