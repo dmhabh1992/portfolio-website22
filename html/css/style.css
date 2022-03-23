@@ -10,6 +10,10 @@
     word-spacing: 10px;
     text-align: center;
 }
+a {
+    text-decoration: none;
+    color: #A68C99;
+}
 h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 36px;
