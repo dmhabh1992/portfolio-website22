@@ -1,10 +1,10 @@
-#navigation {
+.navigation {
     width: 465px;
     margin: 0 auto;
     padding: 20px 0;
     background: #363959;
 }
-ul#nav {
+ul nav {
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
     list-style: none;
@@ -13,10 +13,10 @@ ul#nav {
     width: 455px;
     overflow: auto;
 }
-ul#nav li {
+ul nav li {
     display: inline;
 }
-ul#nav li a {
+ul nav li a {
     text-decoration: none;
     display: block;
     padding: 5px 21px;
@@ -29,7 +29,7 @@ ul#nav li a {
     border-bottom: 2px solid #050505;
     border-left: 2px solid #D2D4C8;
 }
-ul#nav li a:hover {
+ul nav li a:hover {
     background: #A989D2;
     color: #050505;
     border-top: 2px solid #050505;
