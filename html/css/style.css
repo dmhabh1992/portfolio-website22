@@ -15,7 +15,7 @@ p {
     margin: auto;
     border: #4B404F;
 }
-.button {
+ nav .button a {
     display: inline-block;
     padding: 15px 25px;
     font-size: 24px;
@@ -30,9 +30,9 @@ p {
     box-shadow: 0 9px #E9F5E0;
   }
   
-  .button:hover {background-color: #2A1E5C}
+  nav .button a:hover {background-color: #2A1E5C}
   
-  .button:active {
+  nav .button a:active {
     background-color: #E9F5E0;
     box-shadow: 0 5px #2A1E5C;
     transform: translateY(4px);
