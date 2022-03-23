@@ -3,3 +3,8 @@ h1 {
     font-size: 24px;
     color: #DD5555;
 }
+p {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: #707070;
+}
