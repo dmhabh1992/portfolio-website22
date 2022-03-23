@@ -17,7 +17,7 @@ a {
     color: black;
     font-weight: bolder;
 }
-.main .intro {
+.main .intro p {
     background-color: beige;
     border: 20px;
     margin: auto;
