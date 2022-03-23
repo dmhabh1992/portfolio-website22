@@ -4,12 +4,11 @@
     margin-right: auto;
     width: 100%;
     font-family: 'Courier New', Courier, monospace;
-    font-size: small;
+    font-size: large;
     color:#4B404F;
     text-decoration: none;
     word-spacing: 10px;
     text-align: center;
-    border: 2px solid #4B404F;
 }
 h1 {
     font-family: 'Courier New', Courier, monospace;
