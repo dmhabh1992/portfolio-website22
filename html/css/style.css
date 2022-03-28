@@ -16,8 +16,9 @@
     border: #4B404F;
 }
 hr {
-    border: 10px solid #4B404F;
+    border: 5px solid #4B404F;
     border-radius: 5px;
+    width: 50%;
 }
 a {
     text-decoration: none;
