@@ -121,3 +121,8 @@ ol li {
     padding: 10px;
     border: #4B404F;
 }
+.navigation .nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
