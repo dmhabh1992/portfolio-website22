@@ -121,8 +121,16 @@ ol li {
     padding: 10px;
     border: #4B404F;
 }
-.navigation .nav a {
+ul li a {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color:#4B404F;
     text-decoration: none;
-    color: black;
-    font-weight: bolder;
+    word-spacing: 4px;
+    text-align: left;
+    padding: 10px;
+    border: #4B404F;
 }
