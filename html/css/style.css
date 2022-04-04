@@ -134,7 +134,7 @@ ul li {
     padding: 10px;
     border: #4B404F;
 }
-.bookimg {
+.book .bookimg {
     width: 50%;
     height: 200px;
     align-content: center;
