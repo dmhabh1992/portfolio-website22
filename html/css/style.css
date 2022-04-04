@@ -141,7 +141,7 @@ ul li {
     -o-transform: rotate(270deg);
     transform: rotate(270deg);
   }
-  .artwork {
+  .artwork img {
       padding: 10px; 
       border : solid #4B404F;
   }
