@@ -152,8 +152,9 @@ ul li {
     padding: 10px;   
   }
   .artwork {
-    border : solid #4B404F;
+    padding: 10px;
   }
-  .blankets {
+  .blankets img {
     border : solid #4B404F;
+    padding: 10px; 
   }
